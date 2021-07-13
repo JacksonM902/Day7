@@ -1,2 +1,34 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<title>Day 7 work</title>
+<body>
+<table style="width:40%; border:2px solid black;">
+    <tr>
+<th>Images</th>
+<th>Citations</th>
+</tr>
+<tr>
+
+    <table style="width:40%; border:2px solid black;">
+<td><img style="border:1px solid red;"src="city.jfif" alt="city image" width="200" height="200">
+
+
+</td>
+<td><cite>Image by "The Image Conference.com"</cite></td>
+
+</tr>
+<td><img style="border:1px solid red;"src="istockphoto-1072093690-612x612.jpg" alt="Color explosion" width="200" height="200">                 
+</td>
+<td><cite>Image from "Istock.com"</cite></td>
+    
+</table>
+
+
+
+
+
+
+
+
+</body>
